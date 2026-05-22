@@ -1,1 +1,13 @@
-
+scene,seed,stage1_video,v2v_method,refined_video
+scene01,0,outputs/normalized_256/stage1/scene01_seed0.mp4,stage1_baseline,outputs/normalized_256/stage1/scene01_seed0.mp4
+scene01,0,outputs/normalized_256/stage1/scene01_seed0.mp4,venhancer_n30,outputs/normalized_256/v2v/venhancer_n30/scene01_seed0.mp4
+scene01,0,outputs/normalized_256/stage1/scene01_seed0.mp4,dyref_head_v2_e20_256,outputs/normalized_256/v2v/dyref_head_v2_e20_256/scene01_seed0.mp4
+scene01,0,outputs/normalized_256/stage1/scene01_seed0.mp4,dyref_head_v3_edge075_temp015_e20_256,outputs/normalized_256/v2v/dyref_head_v3_edge075_temp015_e20_256/scene01_seed0.mp4
+scene02,0,outputs/normalized_256/stage1/scene02_seed0.mp4,stage1_baseline,outputs/normalized_256/stage1/scene02_seed0.mp4
+scene02,0,outputs/normalized_256/stage1/scene02_seed0.mp4,venhancer_n30,outputs/normalized_256/v2v/venhancer_n30/scene02_seed0.mp4
+scene02,0,outputs/normalized_256/stage1/scene02_seed0.mp4,dyref_head_v2_e20_256,outputs/normalized_256/v2v/dyref_head_v2_e20_256/scene02_seed0.mp4
+scene02,0,outputs/normalized_256/stage1/scene02_seed0.mp4,dyref_head_v3_edge075_temp015_e20_256,outputs/normalized_256/v2v/dyref_head_v3_edge075_temp015_e20_256/scene02_seed0.mp4
+scene03,0,outputs/normalized_256/stage1/scene03_seed0.mp4,stage1_baseline,outputs/normalized_256/stage1/scene03_seed0.mp4
+scene03,0,outputs/normalized_256/stage1/scene03_seed0.mp4,venhancer_n30,outputs/normalized_256/v2v/venhancer_n30/scene03_seed0.mp4
+scene03,0,outputs/normalized_256/stage1/scene03_seed0.mp4,dyref_head_v2_e20_256,outputs/normalized_256/v2v/dyref_head_v2_e20_256/scene03_seed0.mp4
+scene03,0,outputs/normalized_256/stage1/scene03_seed0.mp4,dyref_head_v3_edge075_temp015_e20_256,outputs/normalized_256/v2v/dyref_head_v3_edge075_temp015_e20_256/scene03_seed0.mp4
