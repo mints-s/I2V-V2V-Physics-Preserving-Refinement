@@ -1,0 +1,5 @@
+Method,VBench Imaging ↑,VBench Motion Smoothness ↑,Mean Flow EPE ↓,Flow Mag Ratio ≈1
+기준 I2V 출력,0.6187,0.9948,0.0000,1.0000
+VEnhancer n30,0.6587,0.9940,0.2782,3.4906
+DyRefHead v2,0.6242,0.9939,0.1883,1.6971
+DyRefHead v3,0.6222,0.9939,0.1901,1.5899

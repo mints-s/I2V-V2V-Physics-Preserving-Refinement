@@ -1,0 +1,5 @@
+method,scene,metric,value,status
+stage1_baseline,ALL,dynamic_degree,,failed
+venhancer_n30,ALL,dynamic_degree,,failed
+dyref_head_v2_e20_256,ALL,dynamic_degree,,failed
+dyref_head_v3_edge075_temp015_e20_256,ALL,dynamic_degree,,failed

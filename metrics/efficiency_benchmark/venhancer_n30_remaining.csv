@@ -1,0 +1,3 @@
+method,scene,seconds_per_video,frames,height,width,fps_processed,peak_memory_gib,output_path
+venhancer_n30_remaining,scene02_seed0,1156.3768153520068,,,,,36.01571083068848,/root/realwonder_test/i2v_v2v_physics/metrics/efficiency_benchmark/outputs/venhancer_n30_remaining/scene02_seed0/scene02_seed0.mp4
+venhancer_n30_remaining,scene03_seed0,1014.8035743120126,,,,,37.11760902404785,/root/realwonder_test/i2v_v2v_physics/metrics/efficiency_benchmark/outputs/venhancer_n30_remaining/scene03_seed0/scene03_seed0.mp4

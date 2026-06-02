@@ -1,0 +1,13 @@
+method,scene,video_path,exists,width,height,fps,duration
+stage1_baseline,scene01,/root/realwonder_test/i2v_v2v_physics/outputs/normalized_256/stage1/scene01_seed0.mp4,true,256,256,16/1,4.000000
+stage1_baseline,scene02,/root/realwonder_test/i2v_v2v_physics/outputs/normalized_256/stage1/scene02_seed0.mp4,true,256,256,16/1,4.000000
+stage1_baseline,scene03,/root/realwonder_test/i2v_v2v_physics/outputs/normalized_256/stage1/scene03_seed0.mp4,true,256,256,16/1,4.000000
+venhancer_n30,scene01,/root/realwonder_test/i2v_v2v_physics/outputs/normalized_256/v2v/venhancer_n30/scene01_seed0.mp4,true,256,256,16/1,4.000000
+venhancer_n30,scene02,/root/realwonder_test/i2v_v2v_physics/outputs/normalized_256/v2v/venhancer_n30/scene02_seed0.mp4,true,256,256,16/1,4.000000
+venhancer_n30,scene03,/root/realwonder_test/i2v_v2v_physics/outputs/normalized_256/v2v/venhancer_n30/scene03_seed0.mp4,true,256,256,16/1,4.000000
+dyref_head_v2_e20_256,scene01,/root/realwonder_test/i2v_v2v_physics/outputs/normalized_256/v2v/dyref_head_v2_e20_256/scene01_seed0.mp4,true,256,256,16/1,4.000000
+dyref_head_v2_e20_256,scene02,/root/realwonder_test/i2v_v2v_physics/outputs/normalized_256/v2v/dyref_head_v2_e20_256/scene02_seed0.mp4,true,256,256,16/1,4.000000
+dyref_head_v2_e20_256,scene03,/root/realwonder_test/i2v_v2v_physics/outputs/normalized_256/v2v/dyref_head_v2_e20_256/scene03_seed0.mp4,true,256,256,16/1,4.000000
+dyref_head_v3_edge075_temp015_e20_256,scene01,/root/realwonder_test/i2v_v2v_physics/outputs/normalized_256/v2v/dyref_head_v3_edge075_temp015_e20_256/scene01_seed0.mp4,true,256,256,16/1,4.000000
+dyref_head_v3_edge075_temp015_e20_256,scene02,/root/realwonder_test/i2v_v2v_physics/outputs/normalized_256/v2v/dyref_head_v3_edge075_temp015_e20_256/scene02_seed0.mp4,true,256,256,16/1,4.000000
+dyref_head_v3_edge075_temp015_e20_256,scene03,/root/realwonder_test/i2v_v2v_physics/outputs/normalized_256/v2v/dyref_head_v3_edge075_temp015_e20_256/scene03_seed0.mp4,true,256,256,16/1,4.000000

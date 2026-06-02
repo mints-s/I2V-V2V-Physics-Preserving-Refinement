@@ -1,0 +1,7 @@
+scene,method,action_meaning_preserved_1_5,trajectory_consistency_1_5,contact_timing_preserved_1_5,local_response_preserved_1_5,subject_stability_1_5,visual_gain_1_5,overall_judgment,notes
+scene01,stage1_baseline,,,,,,,,
+scene01,venhancer_n30,,,,,,,,
+scene02,stage1_baseline,,,,,,,,
+scene02,venhancer_n30,,,,,,,,
+scene03,stage1_baseline,,,,,,,,
+scene03,venhancer_n30,,,,,,,,

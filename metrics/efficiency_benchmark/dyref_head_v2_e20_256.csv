@@ -1,0 +1,4 @@
+method,scene,seconds_per_video,frames,height,width,fps_processed,peak_memory_gib,output_path
+dyref_head_v2_e20_256,scene01_seed0,2.0932519199559465,64,256,256,30.574437500741386,4.596811771392822,/root/realwonder_test/i2v_v2v_physics/metrics/efficiency_benchmark/outputs/dyref_head_v2_e20_256/scene01_seed0.mp4
+dyref_head_v2_e20_256,scene02_seed0,1.89638782403199,64,256,256,33.74837108156859,4.643686771392822,/root/realwonder_test/i2v_v2v_physics/metrics/efficiency_benchmark/outputs/dyref_head_v2_e20_256/scene02_seed0.mp4
+dyref_head_v2_e20_256,scene03_seed0,2.2735152489622124,64,256,256,28.150240043128793,4.643686771392822,/root/realwonder_test/i2v_v2v_physics/metrics/efficiency_benchmark/outputs/dyref_head_v2_e20_256/scene03_seed0.mp4

@@ -1,0 +1,2 @@
+method,scene,seconds_per_video,frames,height,width,fps_processed,peak_memory_gib,output_path
+venhancer_n30,scene01_seed0,1029.2533693080186,,,,,36.021738052368164,/root/realwonder_test/i2v_v2v_physics/metrics/efficiency_benchmark/outputs/venhancer_n30/scene01_seed0/scene01_seed0.mp4
