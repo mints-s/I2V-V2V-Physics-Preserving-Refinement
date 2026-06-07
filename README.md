@@ -77,7 +77,7 @@ VEnhancer n30은 가장 높은 VBench Imaging 값을 보였지만, mean Flow EPE
 이는 강한 V2V 정제가 시각 품질을 높이는 동시에 기준 I2V 출력의 움직임 구조에서 더 많이 벗어날 수 있음을 보여준다.
 
 DyRefHead v2는 VEnhancer n30만큼 강한 시각 품질 향상을 달성하지는 못했지만, Stage-1 I2V 출력보다 VBench Imaging을 소폭 향상시키면서 VEnhancer n30보다 낮은 움직임 이탈 보조 지표를 보임. 
-DyRefHead v3는 Flow magnitude ratio를 v2보다 더 1에 가깝게 만들었지만, VBench Imaging은 낮아잠.
+DyRefHead v3는 Flow magnitude ratio를 v2보다 더 1에 가깝게 만들었지만, VBench Imaging은 낮아짐.
 
 ## Repository Structure
 
